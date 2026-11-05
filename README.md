@@ -1,38 +1,30 @@
-<div align="center">
-
 # DERARTU KEBEBA
 
-### SOFTWARE DEVELOPER · AI & NLP SPECIALIST · ROBOTICS TECHNOLOGY
+### Software Developer | AI & NLP Specialist | Robotics Technology
 
-**Building intelligent software solutions and advancing African language technology.**
+Building practical software solutions and advancing African language technology.
 
-📍 Addis Ababa, Ethiopia · 🌍 Open to Remote Opportunities
+📍 Addis Ababa, Ethiopia | 🌍 Open to Remote Opportunities
 
-[Portfolio](https://derartukebeba.github.io/) · [Upwork](https://www.upwork.com/freelancers/~01837d9df809cd9695) · [LinkedIn](https://www.linkedin.com/in/derartu-kebeba-a0143b3b3/)
-
-</div>
+[Portfolio](https://derartukebeba.github.io/) · [Upwork](https://www.upwork.com/freelancers/~01837d9df809cd9695) · [LinkedIn](https://www.linkedin.com/in/derartu-kebeba-a0143b3b3/) · [GitHub](https://github.com/derartukebeba)
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Software Developer and AI Language Technology Specialist with a background in Information Technology and a passion for building practical, scalable technology solutions.
+I'm a Software Developer with a Bachelor's degree in Information Technology from Bule Hora University.
 
-My interests span full-stack development, backend engineering, artificial intelligence, natural language processing, robotics systems, and speech technology.
+I enjoy designing and developing practical technology solutions, with interests in:
 
-I also work with Afaan Oromoo and Amharic language data, contributing to language technology through transcription, voice recording, linguistic evaluation, and AI training.
+- Full-Stack and Backend Software Development
+- Artificial Intelligence and Machine Learning
+- Natural Language Processing (NLP)
+- Robotics Software and Management Systems
+- African Language and Speech Technology
 
-I enjoy transforming complex problems into useful, reliable software.
+I also work with Afaan Oromoo and Amharic language data, including transcription, voice recording, linguistic evaluation, and AI training.
 
-## 🚀 What I Do
-
-| Specialization | Focus Areas |
-|---|---|
-| Software Engineering | Full-Stack, Backend, REST APIs |
-| AI & Machine Learning | ML applications, NLP, data processing |
-| Language Technology | Afaan Oromoo, Amharic, speech data |
-| Robotics Technology | Management systems, inventory, reporting |
-| Web Development | Responsive applications and dashboards |
+My goal is to build useful technology that solves real-world problems and makes digital services more accessible.
 
 ## 🛠️ Technical Skills
 
@@ -62,46 +54,46 @@ I enjoy transforming complex problems into useful, reliable software.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 01. Robotics Reporting System
+### 1. Robotics Reporting System
 
-A role-based management application designed to support robotics reporting, administrative operations, user management, and structured data handling.
+A role-based web application focused on robotics reporting, user management, administrative operations, and structured data handling.
 
-**Technologies:** TypeScript, React, Node.js, Database Technologies.
+**Technologies:** TypeScript and web development technologies.
 
-[Explore Repository →](https://github.com/derartukebeba/eaii-robotics-reporting-system-2026)
+[View Project →](https://github.com/derartukebeba/eaii-robotics-reporting-system-2026)
 
-### 02. Robotics Laboratory Management
+### 2. Robotics Management System
 
-A software project focused on laboratory inventory management, asset tracking, resource allocation, and operational collaboration.
+A robotics-related software project demonstrating application development and management-system capabilities.
 
-**Technologies:** TypeScript, React, Node.js, Web Technologies.
+**Technologies:** TypeScript.
 
-[Explore Repository →](https://github.com/derartukebeba/eaii-robotics-rms)
+[View Project →](https://github.com/derartukebeba/eaii-robotics-rms)
 
-### 03. Personal Developer Portfolio
+### 3. Developer Portfolio
 
-My professional portfolio showcasing my software development background, technical interests, and selected projects.
+My personal portfolio featuring my professional background, technical interests, and selected work.
 
 **Technologies:** HTML, CSS, JavaScript.
 
 [Visit Portfolio →](https://derartukebeba.github.io/)
 
-## 🧠 AI & Language Technology
+## 🧠 AI & African Language Technology
 
-I'm particularly interested in making artificial intelligence more accessible to African languages.
+I'm interested in building AI technologies that support underrepresented African languages.
 
-My language technology interests include:
+My focus areas include:
 
-- Afaan Oromoo speech and text processing.
-- Amharic language technology.
-- Audio transcription and quality evaluation.
-- Voice data collection for AI training.
-- Natural Language Processing.
-- Linguistic quality assurance and localization.
+- Afaan Oromoo language technology
+- Amharic language technology
+- Speech data collection and transcription
+- Audio quality evaluation
+- Natural Language Processing
+- Linguistic quality assurance
+- AI training and data annotation
 
 ## 🎓 Education
 
@@ -115,34 +107,30 @@ Bule Hora University, Ethiopia.
 - Amharic: Fluent
 - English: Professional communication
 
-## 🤝 Let's Collaborate
+## 🤝 Let's Work Together
 
-I'm interested in working with international teams, technology companies, startups, and clients on:
+I'm open to remote opportunities, freelance projects, and collaborations involving:
 
-- Python and Django development.
-- Full-stack and backend engineering.
-- AI and Machine Learning projects.
-- NLP and African language technology.
-- Speech recognition and voice data projects.
-- Robotics and management software.
+- Python and Django development
+- Full-Stack and Backend Engineering
+- AI and Machine Learning
+- NLP and African Language Technology
+- Speech and Voice Data Projects
+- Robotics Software and Management Systems
 
 ## 📬 Connect With Me
 
 | Platform | Link |
 |---|---|
+| Portfolio | [derartukebeba.github.io](https://derartukebeba.github.io/) |
 | GitHub | [@derartukebeba](https://github.com/derartukebeba) |
-| Portfolio | [Personal Website](https://derartukebeba.github.io/) |
 | Upwork | [Freelance Profile](https://www.upwork.com/freelancers/~01837d9df809cd9695) |
 | LinkedIn | [Professional Profile](https://www.linkedin.com/in/derartu-kebeba-a0143b3b3/) |
 
 ---
 
-<div align="center">
+### BUILDING SOFTWARE · ADVANCING AI · CONNECTING LANGUAGES
 
-### BUILDING SOFTWARE. ADVANCING AI. CONNECTING LANGUAGES.
+*Creating technology that helps connect people, ideas, and languages.*
 
-*Technology should create opportunities without language barriers.*
-
-🇪🇹 Made with dedication in Ethiopia.
-
-</div>
+🇪🇹 Based in Ethiopia.
